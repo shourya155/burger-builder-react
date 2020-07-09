@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import Auxiliary from '../../../hoc/Auxiliary';
+import Auxiliary from '../../../hoc/Auxiliary/Auxiliary';
 import Button from '../../../components/UI/Button/Button';
 
 class OrderSummary extends Component{
